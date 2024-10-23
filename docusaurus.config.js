@@ -12,7 +12,7 @@ const config = {
   title: "Learn how to interact with OpenAI models",
   tagline: "A 75-minute workshop on OpenAI GPT Models for Global AI Bootcamp 2024",
   url: "https://workshop.globalai.community",
-  baseUrl: "/",
+  baseUrl: "/AzureOpenAIService-Workshop/",
 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
