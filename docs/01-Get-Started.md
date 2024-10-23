@@ -18,9 +18,8 @@ Your workshop instructor will provide you with an **event key** that you can use
 
 Setup is now a quick 3-step process. 
 
-1. 🗝 | **Get your event-key** - from your workshop organizers at the start of the event.
-2. 📬 | **Get your access-key** - enter event key in [**this form**](https://globalai.community/workshop) to receive your access-key via email.
-3. 💬 | **Use the access-key** - visit the [**Global AI Playground**](https://playground.globalai.community), enter access-key at top right, and click `Authorize`. 
+1. 📬 | **Get your access-key** - enter event key in [**this form**](https://black-tree-00bc45010.5.azurestaticapps.net/event/3214-b26c) to receive your access-key.
+2. 💬 | **Use the access-key** - visit the [**AI Playground**](https://black-tree-00bc45010.5.azurestaticapps.net), enter access-key at top right, and click `Authorize`. 
 
 ![AI Tour Playground](./images/aitour-playground-chat.png) 
 
